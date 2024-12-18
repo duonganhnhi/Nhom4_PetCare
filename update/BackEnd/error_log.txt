@@ -1,0 +1,3 @@
+2024-12-01 15:37:38 - Phương thức không được hỗ trợ: OPTIONS
+2024-12-01 15:37:38 - Dữ liệu nhận được: {"payment_status":"\u0110\u00e3 x\u00e1c nh\u1eadn"}
+2024-12-01 15:37:38 - Dữ liệu không hợp lệ: appointmentId=, paymentStatus=Đã xác nhận
